@@ -1,1 +1,1 @@
-# Tim West
+# Apple Pencil Note Taking App
